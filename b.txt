@@ -1,4 +1,4 @@
-สร้างไฟล์ b 
+สร้างไฟล์ b แก้ไขบรรทัดแรก ใน branch master
 save file
 …or create a new repository on the command line
 echo "# git101" >> README.md
